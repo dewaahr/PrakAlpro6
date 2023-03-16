@@ -11,3 +11,16 @@ print(primes)
 
 
 
+n=23
+
+# for i in range(2,n):
+#         if i%2!=0 and i%3!=0 and i%5!=0 and i%7!=0:
+#             print(i)
+# # print(bil)
+# # print(max(bil))
+num=[]
+for i in range(n):
+    num.append(i)
+print(num)
+for i in num:
+    
